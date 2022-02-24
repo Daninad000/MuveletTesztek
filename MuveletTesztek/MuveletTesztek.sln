@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuveletTesztek", "MuveletTesztek.csproj", "{9FE01907-28AD-4F2A-B76A-FEB5E13FE410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muveletek", "..\Muveletek\Muveletek.csproj", "{28825986-A9BD-4B62-8C46-4D5EF074EED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{AECDF677-534F-436E-8F62-D158E3BD9EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE01907-28AD-4F2A-B76A-FEB5E13FE410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE01907-28AD-4F2A-B76A-FEB5E13FE410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE01907-28AD-4F2A-B76A-FEB5E13FE410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE01907-28AD-4F2A-B76A-FEB5E13FE410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28825986-A9BD-4B62-8C46-4D5EF074EED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28825986-A9BD-4B62-8C46-4D5EF074EED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28825986-A9BD-4B62-8C46-4D5EF074EED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28825986-A9BD-4B62-8C46-4D5EF074EED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECDF677-534F-436E-8F62-D158E3BD9EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECDF677-534F-436E-8F62-D158E3BD9EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECDF677-534F-436E-8F62-D158E3BD9EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECDF677-534F-436E-8F62-D158E3BD9EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C07990F-0826-47B2-9C4E-5E1306A5E7FA}
+	EndGlobalSection
+EndGlobal
